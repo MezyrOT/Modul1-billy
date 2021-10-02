@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E9E2D0;
+}
+.container{
+    background-color: #a8af87;
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+}
+.header{
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+h1, p{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.social-link img{
+    width: 80px;
+}
+.footer3{
+    height: 150px;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer3 h1{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    width: 250px;
+}
